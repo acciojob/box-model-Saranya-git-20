@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+	border:5px solid black;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 40px;
+	background-color:lightgrey;
+}
+
